@@ -1,4 +1,4 @@
-# Bridging Feature Misalignment and Semantic Confusion for Zero-Shot HOI Detection
+# VSC-Bridge
 
 ## Dataset
 Download the official HICO-DET and V-COCO datasets. The download files should organized as follows:
